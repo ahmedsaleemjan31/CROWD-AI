@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+timm
+numpy
+scipy
+opencv-python-headless
+pillow
+streamlit-drawable-canvas
+fpdf2
+pandas
